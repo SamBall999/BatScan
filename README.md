@@ -9,11 +9,15 @@ The project involved signal processing in Julia to obtain a 1D range profile and
 
 ## Signal Processing
 
-<img src="signal_processing.png" alt="Overview of signal processing algorithm to produce 1D range profile." width="550"/>
+<img src="signal_processing.png" alt="Overview of signal processing algorithm to produce 1D range profile." width="750"/>
 
 ## Embedded Software
 
+### Transmitter
+
 <img src="transmitter.png" alt="Transmitter chain including DAC and microcontroller." width="450"/>
+
+### Receiver
 
 <img src="receiver.png" alt="Receiver chain including ADC and microcontroller." width="450"/>
 
@@ -23,4 +27,4 @@ The project involved signal processing in Julia to obtain a 1D range profile and
 
 ## User Interface
 
-<img src="user_interface.png" alt="User interface displaying 1D range profile." width="450"/>
+<img src="user_interface.png" alt="User interface displaying 1D range profile." width="550"/>
