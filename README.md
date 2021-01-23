@@ -9,9 +9,18 @@ The project involved signal processing in Julia to obtain a 1D range profile and
 
 ## Signal Processing
 
-<img src="signal_processing.png" alt="Overview of signal processing algorithm to produce 1D range profile." width="450"/>
+<img src="signal_processing.png" alt="Overview of signal processing algorithm to produce 1D range profile." width="550"/>
 
 ## Embedded Software
 
-<img src="write_chirp_to_dac.png" alt="Algorithm to write chirp pulse to DAC." width="450"/>
+<img src="transmitter.png" alt="Transmitter chain including DAC and microcontroller." width="450"/>
 
+<img src="receiver.png" alt="Receiver chain including ADC and microcontroller." width="450"/>
+
+## Circuit Diagram
+
+<img src="circuit_diagram.png" alt="Full circuit diagram." width="450"/>
+
+## User Interface
+
+<img src="user_interface.png" alt="User interface displaying 1D range profile." width="450"/>
